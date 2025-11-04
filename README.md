@@ -21,7 +21,9 @@ NDX can be read by humans like a normal document, and by AI systems as structure
 
 - **🧠 AI-Native Format** – Documents that are readable, indexable, and interpretable by AI and LLMs.  
 - **🔗 Structured Data** – Supports embedded JSON, XML, or schema-linked data inside the document.  
-- **📄 Human-Friendly Design** – Retains readability, layout, and visual quality for users.  
+- **📄 Human-Friendly Design** – Retains full readability, layout, and typography.  
+- **🖨️ Print-Compatible** – Designed to print exactly like PDF — same layout, margins, and precision.  
+- **🪄 Drop-in Replacement** – Can be used anywhere a PDF is used today: reports, receipts, invoices, contracts, etc.  
 - **⚡ Extensible Framework** – Can be parsed and rendered on web, desktop, or POS/ERP systems.  
 - **🔒 Secure and Verifiable** – Supports digital signatures, versioning, and traceable metadata.  
 - **🌐 Interoperability First** – Integrates seamlessly with existing systems, APIs, and open standards.
