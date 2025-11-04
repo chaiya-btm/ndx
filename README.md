@@ -7,7 +7,7 @@
 
 ## 🌍 Overview
 
-NDX (short for **"Next Document eXchange"**) redefines how digital documents are created, stored, and understood.  
+NDX (short for **"The Universal Document Index"**) redefines how digital documents are created, stored, and understood.  
 It goes beyond static layouts by embedding **semantic meaning, metadata, and data structure** directly into the file.  
 NDX can be read by humans like a normal document, and by AI systems as structured knowledge.
 
