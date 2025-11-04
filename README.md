@@ -38,7 +38,6 @@ NDX can be read by humans like a normal document, and by AI systems as structure
 | **Format Specification** | JSON + Binary container (NDX Core Spec) |
 | **Renderer** | Web (HTML5), Desktop (.NET/Electron), Mobile (Flutter/React Native) |
 | **AI Interface** | Schema-based metadata + LLM/RAG integration |
-| **Storage Layer** | AWS S3 / IPFS / NDX Cloud |
 | **Developer Tools** | NDX SDK (Rust, TypeScript, Python, C#) |
 | **Build & Deployment** | Docker, CI/CD (GitHub Actions), and WebAssembly (WASM) for lightweight clients |
 
